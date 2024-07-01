@@ -8,7 +8,7 @@ After 2 years of military service. I discovered my work experience in various fi
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [phakkaponpumpour@gmail.com](mailto:phakkaponpumpour@gmail.com)
-* 🧠  I'm learning React and Node.js
+* 🧠  Now, I'm learning React, Node.js and MongoDB
 
 ### Skills
 
