@@ -8,7 +8,7 @@ After 2 years of military service. I discovered my work experience in various fi
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [phakkaponpumpour@gmail.com](mailto:phakkaponpumpour@gmail.com)
-* * ✉️  You can also contact me at [phakkaponpumpour@outlook.com](mailto:phakkaponpumpour@outlook.com)
+* ✉️  You can also contact me at [phakkaponpumpour@outlook.com](mailto:phakkaponpumpour@outlook.com)
 * 🧠  I'm learning Node.js and MongoDB
 
 ### Skills
