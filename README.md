@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phakkapon Pumpour
 =========================================================================================================================================
-
-Fresh Graduate
 --------------
-
-After 2 years of military service. I discovered my work experience in various fields such as data, programming, and networking. However, what I have passionate the most is working in Programming and Data . As a result, I am interested in Developer and Data Analyze.
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [phakkaponpumpour@gmail.com](mailto:phakkaponpumpour@gmail.com)
