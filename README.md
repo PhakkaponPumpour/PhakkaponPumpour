@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [phakkaponpumpour@gmail.com](mailto:phakkaponpumpour@gmail.com)
 * ✉️  You can also contact me at [phakkaponpumpour@outlook.com](mailto:phakkaponpumpour@outlook.com)
-* 🧠  I'm learning Node.js and MongoDB
 
 ### Skills
 
